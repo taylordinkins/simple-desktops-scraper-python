@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import argparse
+import numpy as np
 
 from tqdm import tqdm
 
